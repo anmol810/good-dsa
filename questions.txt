@@ -1,1 +1,6 @@
 https://leetcode.com/problems/random-pick-with-weight/description/
+https://leetcode.com/problems/diameter-of-binary-tree/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+https://leetcode.com/problems/merge-intervals/
+https://leetcode.com/problems/top-k-frequent-elements/description/
+https://leetcode.com/problems/merge-k-sorted-lists/description/
