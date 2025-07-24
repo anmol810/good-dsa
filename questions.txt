@@ -4,3 +4,4 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 https://leetcode.com/problems/merge-intervals/
 https://leetcode.com/problems/top-k-frequent-elements/description/
 https://leetcode.com/problems/merge-k-sorted-lists/description/
+https://leetcode.com/problems/powx-n/description/
