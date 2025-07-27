@@ -8,10 +8,23 @@ https://leetcode.com/problems/powx-n/description/
 https://leetcode.com/problems/range-sum-of-bst/description/
 https://leetcode.com/problems/custom-sort-string/description/
 https://leetcode.com/problems/k-closest-points-to-origin/description/
-https://leetcode.com/problems/clone-graph/description/
 https://leetcode.com/problems/merge-sorted-array/
 https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/1711907787/
-quite good problem https://leetcode.com/problems/next-permutation/
-one of the most important https://leetcode.com/problems/copy-list-with-random-pointer/
 https://leetcode.com/problems/binary-search-tree-iterator/description/
+
+
+
+
+
+
+
+
+
+
+
+
+should do again
 https://leetcode.com/problems/basic-calculator/description/
+https://leetcode.com/problems/copy-list-with-random-pointer/
+https://leetcode.com/problems/clone-graph/description/
+https://leetcode.com/problems/next-permutation/
