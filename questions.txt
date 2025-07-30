@@ -1,3 +1,4 @@
+good
 https://leetcode.com/problems/random-pick-with-weight/description/
 https://leetcode.com/problems/diameter-of-binary-tree/
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
@@ -28,4 +29,16 @@ https://leetcode.com/problems/cinema-seat-allocation/
 https://leetcode.com/problems/as-far-from-land-as-possible/description/
 https://leetcode.com/problems/battleships-in-a-board/description/
 https://leetcode.com/problems/basic-calculator-iii/description/
+https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/
 
+
+
+
+
+
+
+
+
+
+Must to
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/
