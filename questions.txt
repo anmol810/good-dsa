@@ -12,6 +12,7 @@ https://leetcode.com/problems/k-closest-points-to-origin/description/
 https://leetcode.com/problems/merge-sorted-array/
 https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/1711907787/
 https://leetcode.com/problems/binary-search-tree-iterator/description/
+https://leetcode.com/problems/cutting-ribbons/description/
 
 
 
