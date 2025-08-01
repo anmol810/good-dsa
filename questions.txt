@@ -12,7 +12,7 @@ https://leetcode.com/problems/k-closest-points-to-origin/description/
 https://leetcode.com/problems/merge-sorted-array/
 https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/1711907787/
 https://leetcode.com/problems/binary-search-tree-iterator/description/
-https://leetcode.com/problems/cutting-ribbons/description/
+https://leetcode.com/problems/car-pooling/description/
 
 
 
@@ -43,3 +43,5 @@ https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/descri
 
 Must to
 https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+https://leetcode.com/problems/cutting-ribbons/description/
+https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
