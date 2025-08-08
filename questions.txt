@@ -45,3 +45,4 @@ Must to
 https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 https://leetcode.com/problems/cutting-ribbons/description/
 https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
